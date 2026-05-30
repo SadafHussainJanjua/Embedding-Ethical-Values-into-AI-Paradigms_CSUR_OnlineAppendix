@@ -1,7 +1,10 @@
 **Integrating Ethical Values into AI Paradigms: A Systematic Mapping Study**
 
 _Online Appendix_
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________
 
 Sadaf Hussain Janjua - sadafhussain.janjua@gssi.it - Department of Computer Science, Gran Sasso Science Institute, L'Aquila, Italy
 
@@ -27,7 +30,7 @@ ________________________________________________________________________________
 
 **Excel Files:**
 
-It contains files with .xls extension, allowing you to view the files using Excel software. Inside, there are 5 different sheets:
+The package contains five Excel (.xls) files that can be opened using Microsoft Excel or any compatible spreadsheet application. Each file includes multiple worksheets containing study data, mappings for the research questions, and other supporting materials used throughout the research process.
 
 **1. Initial List of Papers:**
 
@@ -50,9 +53,9 @@ This Excel sheet contains the final set of included studies, along with descript
 This Excel file contains the search string used to retrieve studies from the databases.
 
 It includes the inclusion and exclusion criteria applied during study selection.
-It includes the mapping criteria for Research Question 1, which groups studies based on the main objectives guiding research on IEAIP approaches. It also provides a complete mapping of each study, including main categories and corresponding subcategories.
+It includes the mapping criteria for Research Question 1, which groups studies based on the main objectives guiding research on IEAIP approaches (e.g. Why a technique is proposed). It also provides a complete mapping of each study, including main categories and corresponding subcategories.
 
-It includes the mapping criteria for Research Question 2, which examines the main technical and stakeholder-related aspects involved in operationalising IEAIP techniques. This section maps each sub-question across the dimensions of WHAT, WHOSE, WHICH, WHEN, and HOW.
+It includes the mapping criteria for Research Question 2, which examines the main technical and stakeholder-related aspects involved in operationalising IEAIP techniques. This contains mapping information for each sub-question across the dimensions of WHAT, WHOSE, WHICH, WHEN, and HOW.
 
 It includes the complete mapping of each study addressing Research Question 3: What evaluation practices and forms of evidence are adopted for IEAIP techniques.
 
@@ -62,6 +65,6 @@ ________________________________________________________________________________
 
 **Images:**
 
-This folder contains figures that are part of the mapping study.
+This folder contains figures that are part of this mapping study.
 
 
