@@ -24,7 +24,7 @@ This is the online appendix for the Systematic Mapping Study titled Integrating 
 
 **Figure: Summary of the selection protocol for this systematic mapping study**
 
-<img width="944" height="956" alt="image" src="https://github.com/user-attachments/assets/99d11cdd-b326-420d-8b42-54698f89d3bf" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/99d11cdd-b326-420d-8b42-54698f89d3bf" />
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
