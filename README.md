@@ -16,7 +16,7 @@ Donatella Donati - donatella.donati@univaq.it - Department of Human Sciences, Un
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
-This is the online appendix for the Systematic Mapping Study titled Integrating Ethical Values into AI Paradigms: A Systematic Mapping Study. 
+This is the online appendix for the Systematic Mapping Study titled "Embedding Ethical Values into AI Paradigms: A Systematic Mapping Study". 
 
 **Search String:**
 
@@ -54,13 +54,13 @@ This Excel sheet contains the final set of included studies, along with descript
 This Excel file contains the search string used to retrieve studies from the databases.
 
 It includes the inclusion and exclusion criteria applied during study selection.
-It includes the mapping criteria for Research Question 1, which groups studies based on the main objectives guiding research on IEAIP approaches (e.g. Why a technique is proposed). It also provides a complete mapping of each study, including main categories and corresponding subcategories.
+It includes the mapping criteria for Research Question 1, which groups studies based on the main objectives guiding research on EVAIP approaches (e.g. Why a technique is proposed). It also provides a complete mapping of each study, including main categories and corresponding subcategories.
 
-It includes the mapping criteria for Research Question 2, which examines the main technical and stakeholder-related aspects involved in operationalising IEAIP techniques. This contains mapping information for each sub-question across the dimensions of WHAT, WHOSE, WHICH, WHEN, and HOW.
+It includes the mapping criteria for Research Question 2, which examines the main technical and stakeholder-related aspects involved in operationalising EVAIP techniques. This contains mapping information for each sub-question across the dimensions of WHAT, WHOSE, WHICH, WHEN, and HOW.
 
-It includes the complete mapping of each study addressing Research Question 3: What evaluation practices and forms of evidence are adopted for IEAIP techniques.
+It includes the complete mapping of each study addressing Research Question 3: What evaluation practices and forms of evidence are adopted for EVAIP techniques.
 
-It includes all details required to address Research Question 4: What are the current gaps, open challenges, and future research directions for IEAIP.
+It includes all details required to address Research Question 4: What are the current gaps, open challenges, and future research directions for EVAIP.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
