@@ -1,6 +1,7 @@
 **Whose Values are Embedded?**
 When multiple stakeholder categories are present, a primary stakeholder level is assigned together with any secondary stakeholder levels to preserve stakeholder diversity. Studies that focused primarily on system design, training, evaluation, or reward specification without explicitly identifying stakeholders are classified under the organisational level, reflecting their emphasis on engineering and governance responsibilities.
-
+________________________________________________
+________________________________________________
 **Definitions of Stakeholder Categories**
 The definitions of I, G, O, and S are as follows.
 
@@ -12,7 +13,9 @@ ________________________________________________________________________________
 
 
 **Stakeholder Distribution Across Alignment Objectives (RQ1)**
-Stakeholder categorisation spans five levels (G1-G5) within the objective-oriented taxonomy, reflecting increasing specificity in the identification of affected stakeholder groups. At the **G1** level, stakeholder references remain relatively generic, typically focusing on individual users and institution-mediated notions of safety rather than clearly defined social groups. Studies in this category commonly address objectives such as human oversight, cultural sensitivity, constitutional principles, and safe system behaviour, with safety serving as the primary ethical concern that links these otherwise diverse themes.
+Stakeholder categorisation spans five levels (G1-G5) within the objective-oriented taxonomy, reflecting increasing specificity in the identification of affected stakeholder groups. 
+
+At the **G1** level, stakeholder references remain relatively generic, typically focusing on individual users and institution-mediated notions of safety rather than clearly defined social groups. Studies in this category commonly address objectives such as human oversight, cultural sensitivity, constitutional principles, and safe system behaviour, with safety serving as the primary ethical concern that links these otherwise diverse themes.
 
 **G2** exhibits the broadest stakeholder coverage, explicitly addressing concerns that span individual, group, organisational, and societal levels. Nevertheless, the primary focus remains on individuals, particularly in contexts requiring personalised, culturally grounded, or high-stakes decision-making. Studies in this category frequently examine issues such as digital sovereignty, configurable ethical preferences, fairness in high-stakes applications, trustworthiness, and the protection of marginalised populations. Collectively, these works extend beyond generic safety concerns by emphasising the need to align AI behaviour with the values, circumstances, and interests of diverse stakeholders.
 
@@ -22,4 +25,4 @@ Stakeholder categorisation spans five levels (G1-G5) within the objective-orient
 
 **G5** represents the most governance-oriented category, emphasising the participatory specification, negotiation, and oversight of alignment objectives across stakeholder levels. Unlike categories that focus primarily on deployment outcomes or operational mechanisms, G5 explicitly treats value and reward specification as a collective governance challenge, particularly in autonomous and multi-agent systems. Studies in this category advocate collaborative stakeholder involvement in defining, refining, and monitoring ethical objectives, with recurring emphasis on civility, harm prevention, collective coordination, public safety, autonomy, and system-level control. Collectively, these works frame alignment as an ongoing socio-technical governance process rather than a purely technical optimisation problem.
 
-Several studies operationalise stakeholder plurality through abstract representations such as reward functions or system-level constraints, thereby translating diverse stakeholder perspectives into unified optimisation objectives. While this formulation enables computational tractability, it may oversimplify or obscure important contextual and normative differences among stakeholders, particularly those arising from multidisciplinary perspectives and heterogeneous value systems.
+_Several studies operationalise stakeholder plurality through abstract representations such as reward functions or system-level constraints, thereby translating diverse stakeholder perspectives into unified optimisation objectives. While this formulation enables computational tractability, it may oversimplify or obscure important contextual and normative differences among stakeholders, particularly those arising from multidisciplinary perspectives and heterogeneous value systems._
