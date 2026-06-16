@@ -1,4 +1,4 @@
-**Integrating Ethical Values into AI Paradigms: A Systematic Mapping Study**
+**Embedding Ethical Values into AI Paradigms: A Systematic Mapping Study**
 
 _Online Appendix_
 _____________________________________________________________________________________________________________________________________________________________________________________________________
