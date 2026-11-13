@@ -1,8 +1,6 @@
 **Embedding Ethical Values into AI Paradigms: A Systematic Mapping Study**
 
 _Online Appendix_
-_____________________________________________________________________________________________________________________________________________________________________________________________________
-
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -28,6 +26,10 @@ ________________________________________________________________________________
 
 The package contains five Excel (.xls) files that can be opened using Microsoft Excel or any compatible spreadsheet application. Each file includes multiple worksheets containing study data, mappings for the research questions, and other supporting materials used throughout the research process.
 
+**0. Recall & Sensitivity Searches - Process:**
+
+This Excel file contains a list of known studies used as reference papers for conducting recall and sensitivity searches following the Quality Gold Standard approach.
+
 **1. Initial List of Papers:**
 
 This Excel sheet contains the full set of papers retrieved from executing the search query described in the paper across all four databases.
@@ -44,15 +46,15 @@ This Excel sheet contains all studies along with their relevance assessments, ba
 
 This Excel sheet contains the final set of included studies, along with descriptions of their relevance.
 
-**5. Research Questions:**
+**4.1 Quality Assessment of Studies**
 
-This Excel file contains the search string used to retrieve studies from the databases.
+This Excel file contains the quality assessment criteria, evaluation results, and scores assigned to the included studies.
 
-It includes the inclusion and exclusion criteria applied during study selection.
-It includes the mapping criteria for Research Question 1, which groups studies based on the main objectives guiding research on EVAIP approaches (e.g. Why a technique is proposed). It also provides a complete mapping of each study, including main categories and corresponding subcategories.
+**RQ1.1 WHAT (Values)**
 
 It includes the mapping criteria for Research Question 2, which examines the main technical and stakeholder-related aspects involved in operationalising EVAIP techniques. This contains mapping information for each sub-question across the dimensions of WHAT, WHOSE, WHICH, WHEN, and HOW.
-
+It includes the inclusion and exclusion criteria applied during study selection.
+It includes the mapping criteria for Research Question 1, which groups studies based on the main objectives guiding research on EVAIP approaches (e.g. Why a technique is proposed). It also provides a complete mapping of each study, including main categories and corresponding subcategories.
 It includes the complete mapping of each study addressing Research Question 3: What evaluation practices and forms of evidence are adopted for EVAIP techniques.
 
 It includes all details required to address Research Question 4: What are the current gaps, open challenges, and future research directions for EVAIP.
