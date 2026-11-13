@@ -20,12 +20,7 @@ This is the online appendix for the Systematic Mapping Study titled "Embedding E
 
 **Search String:**
 
-("constitutional ai" OR "ai alignment" OR "ai value alignment" OR "value alignment" OR "value-alignment" OR "knowledge inject*" OR "value inject*" OR "value embed*" OR "knowledge embed*") AND ("reinforcement learning from human feedback" OR "rlhf" OR "reinforcement learning from AI feedback" OR "rlaif" OR "inverse reinforcement learning" OR "irl" OR "artificial intelligence" OR "ai" OR "machine learning" OR "ml" OR "learning system*" OR "learning agent*" OR "deep learning" OR "reinforcement learning" OR "rl" OR "generative ai" OR "genai" OR "large language model*" OR "llm*" OR "agentic ai") AND ("ethic*" OR "moral*" OR "moral value*" OR "human* value*" OR "ethic* value*" OR "human* preference*" OR "human* principle*" OR "ethic* rule*" OR "ethic* principle*")
-
-**Figure: Summary of the selection protocol for this systematic mapping study**
-
-<img width="900" height="800" alt="DB Search Overview" src="https://github.com/user-attachments/assets/4af5f121-b327-42f4-a621-cb8e418f857a" />
-
+("constitutional ai" OR "ai alignment" OR "ai value alignment" OR "value alignment" OR "value-alignment" OR "knowledge inject*" OR "value inject*" OR "value embed*" OR "knowledge embed*") AND ("reinforcement learning from human feedback" OR "rlhf" OR "reinforcement learning from AI feedback" OR "rlaif" OR "inverse reinforcement learning" OR "irl" OR "artificial intelligence" OR "ai" OR "machine learning" OR "ml" OR "learning system*" OR "learning agent*" OR "deep learning" OR "reinforcement learning" OR "rl" OR "generative ai" OR "genai" OR "large language model*" OR "llm*") AND ("ethic*" OR "moral*" OR "moral value*" OR "human* value*" OR "ethic* value*" OR "human* preference*" OR "human* principle*" OR "ethic* rule*" OR "ethic* principle*")
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
