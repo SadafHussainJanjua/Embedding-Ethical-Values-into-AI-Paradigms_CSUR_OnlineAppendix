@@ -22,6 +22,14 @@ This is the online appendix for the Systematic Mapping Study titled "Embedding E
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
+**Search Flowchart:**
+
+<img width="804" height="734" alt="Search Flowchart" src="https://github.com/user-attachments/assets/e7d918ef-4a34-4276-9dc7-974ce052400d" />
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
 **Excel Files:**
 
 The package contains five Excel (.xls) files that can be opened using Microsoft Excel or any compatible spreadsheet application. Each file includes multiple worksheets containing study data, mappings for the research questions, and other supporting materials used throughout the research process.
