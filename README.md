@@ -50,7 +50,7 @@ This Excel sheet contains the final set of included studies, along with descript
 
 This Excel file contains the quality assessment criteria, evaluation results, and scores assigned to the included studies.
 
-**RQ1.1 WHAT (Values)**
+**RQ1.1 WHAT (Values), RQ1.2 WHOSE (Stakeholder), RQ1.3 WHICH (AI Paradigm), RQ1.4 WHEN (Lifecycle), RQ1.5 HOW (Mechanism)**
 
 It includes the mapping criteria for Research Question 2, which examines the main technical and stakeholder-related aspects involved in operationalising EVAIP techniques. This contains mapping information for each sub-question across the dimensions of WHAT, WHOSE, WHICH, WHEN, and HOW.
 It includes the inclusion and exclusion criteria applied during study selection.
