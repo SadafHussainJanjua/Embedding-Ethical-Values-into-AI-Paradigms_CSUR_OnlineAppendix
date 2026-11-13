@@ -32,19 +32,19 @@ This Excel file contains a list of known studies used as reference papers for co
 
 **1. Initial List of Papers:**
 
-This Excel sheet contains the full set of papers retrieved from executing the search query described in the paper across all four databases.
+This Excel file contains the full set of papers retrieved from executing the search query described in the paper across all four databases.
 
 **2. Duplicate Studies:**
 
-This Excel sheet contains all duplicate records that were found and then removed from the initial set of retrieved studies.
+This Excel file contains all duplicate records identified and removed from the initial set of retrieved studies.
 
 **3. Evaluation Relevance:**
 
-This Excel sheet contains all studies along with their relevance assessments, based on two prior screening decisions that led to the final inclusion or exclusion decision.
+This Excel file contains all studies along with their relevance assessments, based on two prior screening decisions that led to the final inclusion or exclusion decision.
 
 **4. Final List of Papers:**
 
-This Excel sheet contains the final set of included studies, along with descriptions of their relevance.
+This Excel file contains the final set of included studies, along with descriptions of their relevance.
 
 **4.1 Quality Assessment of Studies**
 
@@ -52,28 +52,28 @@ This Excel file contains the quality assessment criteria, evaluation results, an
 
 **RQ1.1 WHAT (Values), RQ1.2 WHOSE (Stakeholder), RQ1.3 WHICH (AI Paradigm), RQ1.4 WHEN (Lifecycle), RQ1.5 HOW (Mechanism)**
 
-It includes the mapping criteria for Research Question 1, which examines the main ethical, stakeholder-related, and technical-level aspects involved in EVAIP techniques. It provides mapping information for each sub-question (within RQ1) across the WHAT, WHOSE, WHICH, WHEN, and HOW dimensions.
+These Excel files contain multiple worksheets detailing the mapping criteria for Research Question 1 (RQ1), which examines the key ethical, stakeholder-related, and technical aspects of EVAIP techniques. They provide the mapping criteria and corresponding information for each RQ1 sub-question across the WHAT, WHOSE, WHICH, WHEN, and HOW dimensions.
 
 **WHICH x WHAT x WHOSE 3D Matrix**
 
-This Excel sheet details the 3D mapping process, including the mapping rules for the three dimensions: WHICH (stakeholder levels and roles), WHAT (ethical values), and WHOSE (AI paradigms).
+This Excel file details the 3D mapping process, including the mapping rules for the three dimensions: WHICH (stakeholder levels and roles), WHAT (ethical values), and WHOSE (AI paradigms).
 
 **RQ2 WHY (Objectives)**
 
-It includes the mapping criteria for the Research Question 2, which groups studies based on the objectives guiding research on EVAIP approaches (e.g. Why a technique is proposed). It also provides a complete mapping of each study, including main categories and corresponding subcategories.
+This Excel file includes the mapping criteria for Research Question 2, which groups studies based on the objectives guiding research on EVAIP approaches (e.g., "Why" a technique is proposed). It also provides a complete mapping of each study, including main categories and corresponding subcategories.
 
 **RQ3 Maturity Level, RQ3 Dataset, RQ3 Evaluation Setup & Metrics, and RQ3 Evaluation Contexts**
 
-These Excel files provide the complete mapping of the included studies addressing Research Question 3 (RQ3): What evaluation practices and forms of evidence are adopted for EVAIP techniques?
+These Excel files contain the comprehensive mapping of all included studies against Research Question 3 (RQ3), which examines the evaluation practices and forms of evidence adopted for EVAIP techniques.
 
 **RQ4 Research Gaps_Challenges, Future Research Directions & Research Roadmap**
 
-It includes all details required to address Research Question 4: What are the current gaps, open challenges, and future research directions for EVAIP.
+This Excel file contains the comprehensive mapping and supporting details required to address Research Question 4 (RQ4), which examines the current gaps, open challenges, and future research directions in EVAIP.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Images:**
 
-This folder contains figures that are part of this mapping study.
+This folder contains all figures generated and used in the mapping study.
 
 
